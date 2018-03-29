@@ -1,3 +1,9 @@
+patchelf (0.10+git1fa4d36-0.1) bionic; urgency=medium
+
+  * use version 0.10, git 1fa4d36
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Thu, 29 Mar 2018 07:15:37 +0200
+
 patchelf (0.9-1) unstable; urgency=medium
 
   * New upstream release
