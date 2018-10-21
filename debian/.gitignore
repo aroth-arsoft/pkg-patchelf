@@ -1,0 +1,7 @@
+/.debhelper/
+/patchelf/
+*.substvars
+*.log
+/autoreconf.after
+/autoreconf.before
+/files
