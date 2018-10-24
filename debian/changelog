@@ -1,3 +1,10 @@
+patchelf (0.10+gitc3b814f-0.1) cosmic; urgency=medium
+
+  * use fork at https://github.com/aroth-arsoft/patchelf
+  * hopefully fixes ldconfig warns about truncated libraries #44
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Wed, 24 Oct 2018 07:27:08 +0200
+
 patchelf (0.10+gitcc23a27-0.2) cosmic; urgency=medium
 
   * use https://github.com/dtzWill/patchelf.git
